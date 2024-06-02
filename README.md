@@ -1,7 +1,5 @@
 #### Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/chasyumen)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=chasyumen&count_private=true&show_icons=true)
 ![Readme Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=chasyumen&show_icons=true)
 

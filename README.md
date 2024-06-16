@@ -3,7 +3,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=chasyumen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=chasyumen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chasyumen)](https://git.io/streak-stats)\
-[![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)\
+[![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)
 
 自由気ままに生きたい
 

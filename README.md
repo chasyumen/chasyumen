@@ -1,8 +1,17 @@
 #### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=chasyumen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=chasyumen&show_icons=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chasyumen)](https://git.io/streak-stats)\
+<div align="center" dir="">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasyumen&layout=compact&title_color=fff&text_color=fefefe&bg_color=151515&border_radius=7">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=chasyumen&layout=compact&show_icons=true&title_color=fff&text_color=fefefe&bg_color=151515&border_radius=7">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://streak-stats.demolab.com/?user=chasyumen&theme=dark">
+  </a>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)
 
 自由気ままに生きたい

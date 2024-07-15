@@ -15,6 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)
 
 自由気ままに生きたい
+やるきはあるの！たぶん！
 
 <!--
 **chasyumen/chasyumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

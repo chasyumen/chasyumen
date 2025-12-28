@@ -1,5 +1,9 @@
 #### Hi there 👋
 
+内部事情により、現行の開発中のプロジェクトのソースコードは現時点ではいらっさいbot v2を除き、非公開としています。
+
+(いらっさいBotのv3以降は非公開で開発しています。)
+<!--
 <div align="center" dir="">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasyumen&layout=compact&title_color=fff&text_color=fefefe&bg_color=151515&border_radius=7">
@@ -10,9 +14,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://streak-stats.demolab.com/?user=chasyumen&theme=dark">
   </a>
-</div>
+</div> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 自由気ままに生きたい
 やるきはあるの！たぶん！

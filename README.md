@@ -14,9 +14,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://streak-stats.demolab.com/?user=chasyumen&theme=dark">
   </a>
-</div> 
+</div> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chasyumen)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 自由気ままに生きたい
 やるきはあるの！たぶん！
